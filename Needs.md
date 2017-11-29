@@ -13,3 +13,7 @@
 ## Tools
 - A platform to communicate each other
 - A platform to follow the project (tasks and sub tasks)
+
+## Tasks
+- We need a Git/ GitHub Tutorial
+
