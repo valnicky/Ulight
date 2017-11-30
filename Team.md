@@ -3,3 +3,4 @@
 - Kes2401 (Front-End Developer)
 - Puritanic (Front-End Developer)
 - Islam (Front-End Developer / Foreign language speaker: Arabic)
+- Ditiite (Front-End Developer)
