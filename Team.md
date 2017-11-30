@@ -5,3 +5,4 @@
 - Islam (Front-End Developer / Foreign language speaker: Arabic)
 - Ditiite (Front-End Developer)
 - Ah.nabil (Backend Developer/ Front-End Developer)
+- mattbudde (Front-End Developer / Design)
