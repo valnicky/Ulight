@@ -37,7 +37,7 @@ When you are sure about the Pull Request you want to make, please follow those s
   <pre>git checkout -b name_of_your_branch</pre></li>
   <li>Commit your changes</li>
   <li>Push your branch to your fork
-  <pre>git push origin name_of_your_branch</pre></li>
+  <pre>git push https://github.com/maevanapcontact/Ulight.git name_of_your_branch</pre></li>
   <li>Open a Pull Request</li>
 </ol>
 
