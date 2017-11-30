@@ -1,6 +1,6 @@
 # Vision of the project
 
-This project is a CSS and JavaScript Framework to add style in the HTML documents.
+Ulight is a CSS and JavaScript Framework to add style in the HTML documents.
 The goal is to propose new kind of design to break the fact that many websites look the same because they all have the same set of rules.
 
 ## How the project is divided?
@@ -12,6 +12,3 @@ The Framework by itself will include the CSS and JavaScript files for the users 
 
 ### Website
 The website will present the project and people should propose their set of designs to be implemented into the official Framework.
-
-
-

@@ -1,4 +1,4 @@
-# The current needs for the project
+# The current needs for Ulight
 
 ## Team
 - Front-End developers (Website + Framework)
@@ -16,4 +16,3 @@
 
 ## Tasks
 - We need a Git/ GitHub Tutorial
-

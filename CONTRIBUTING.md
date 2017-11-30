@@ -1,17 +1,17 @@
-# Contributing to the project
+# Contributing to Ulight
 
 If you wish to contribute, read the following content to see how you can help! <br>
 In order to keep the things well organized, follow the next process and rules to make a good contribution and to save time to everybody.<br>
 This project is based on the free contribution and we need you to make it bigger and better. So feel free to open a Pull Request if you think it should be useful. Your request will be carefully considered and merged if useful.<br>
 
-## Guidelines 
+## Guidelines
 ### HTML
 Please follow those <a href="https://udacity.github.io/frontend-nanodegree-styleguide/">HTML Guidelines</a> to write the inside the HTML files.
 
-### CSS 
+### CSS
 Please follow those <a href="https://udacity.github.io/frontend-nanodegree-styleguide/css.html">CSS Guidelines</a> to write the inside the CSS files.
 
-### JavaScript 
+### JavaScript
 Please follow those <a href="https://udacity.github.io/frontend-nanodegree-styleguide/javascript.html">JavaScript Guidelines</a> to write the inside the JavaScript files.
 
 ### Commit
@@ -44,7 +44,7 @@ When you are sure about the Pull Request you want to make, please follow those s
 ## Current needs
 If you wish to contribute, here is a list of the main needs we have:
 
-### Tutorials 
+### Tutorials
 <ul>
   <li>Git/ GitHub Quick Start Tutorial</li>
   <li>Normalize.css Tutorial</li>
@@ -60,7 +60,7 @@ If you wish to contribute, here is a list of the main needs we have:
   <li>A documentation structure (will be present on the Website)</li>
 </ul>
 
-### Website 
+### Website
 <ul>
   <li>A UX design analyze to start build the Website</li>
 </ul>
@@ -69,6 +69,3 @@ If you wish to contribute, here is a list of the main needs we have:
 <ul>
   <li>A first set of design to implement (buttons, tables, headers, blocks and so on.)</li>
 </ul>
-
-
-
