@@ -6,3 +6,4 @@
 - Ditiite (Front-End Developer)
 - Ah.nabil (Backend Developer/ Front-End Developer)
 - mattbudde (Front-End Developer / Design)
+- JABedford (Designer/ Front-End Developer) 
