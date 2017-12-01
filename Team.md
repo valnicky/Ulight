@@ -9,3 +9,4 @@
 - JABedford (Designer/ Front-End Developer) 
 - stearruda (Front-End Developer / Portuguese Translator)
 - TomaszAdamowicz (Front-End Developer / Accessibility / Polish Translator)
+- mkutlu (Front-End Developer / Turkish Translator)
