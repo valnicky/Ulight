@@ -1,0 +1,12 @@
+# Team
+- Maevanapcontact (Project manager / Front-End developer)
+- Kes2401 (Front-End Developer)
+- Puritanic (Front-End Developer)
+- Islam (Front-End Developer / Foreign language speaker: Arabic)
+- Ditiite (Front-End Developer)
+- Ah.nabil (Backend Developer/ Front-End Developer)
+- mattbudde (Front-End Developer / Design)
+- JABedford (Designer/ Front-End Developer) 
+- stearruda (Front-End Developer / Portuguese Translator)
+- TomaszAdamowicz (Front-End Developer / Accessibility / Polish Translator)
+- mkutlu (Front-End Developer / Turkish Translator)
