@@ -28,7 +28,7 @@ To keep the tutorials consistent, please follow those guidelines:
 </ul>
 
 ## Pull Requests
-Before doing a pull request, please check the current needs write down bellow. <br>
+Before doing a pull request, please check the current needs write down below. <br>
 If the contribution you want to make is not listed in the "Current Needs" section, then, it should be a good idea to contact a member of the team to discuss a bit about your project (by mail for example), to be sure you will not waste your time making a change that is not needed at all. <br>
 When you are sure about the Pull Request you want to make, please follow those steps. <br><br>
 <ol>
