@@ -1,36 +1,78 @@
-# ULIGHT
-A CSS/JavaScript Framework to add some original style to the web pages.
+# Ulight
 
-## Purpose of the project
-The goal is to provide a useful Front-End Framework to help developers building original websites. The purpose of Ulight is to propose various styles based on designed templates.
+Welcome to the Ulight Project!
 
-**Ulight is build by a team of passionated and implicated juniors.**
+Here, we are making a Framework and a website for this Framework!
 
-Our goal is to make it easy for beginners to contribute to an Open Source project. It can be hard to make your first Pull Request or to even understand well how an Open Source project is built! But YOU ARE NOT ALONE! 
+Ulight is a CSS/ JavaScript Framework to style original websites.
 
-Every developers had started one day and was a beginner. Here we are still beginners as well, but we are hungry to learn!
 
-**If you feel lost, if you are just a young developer and are looking for a project to learn and to be a part of the community, you are more than welcome!** We try to keep this repository clean and well organized and to give you all the keys needed to be able to participate, even if you are new in coding!
+## The Framework
 
-Take a look to this README, read the documentation associated, surf inside the folders and read the code. If there is anything unclear, that's maybe because we didn't pay enough attention to that! So let us know where you are stuck and we will add the resources needed in order to make your journey through this project as pleasant as possible!
+Ulight allows Front-End Developer to build original websites. It breaks the rules and the standards of the website to let the developers express their creativity!
 
-## Getting Started
-The project has no version to test yet. You can fork the project and pull it in your computer to have a full access to the files.
+Ulight will propose a large library of set of designed elements that developers should use to style their own HTML files. By using classes, developers will be able to access to that library and should choose the design of their choice.
 
-# Requirements
-The project is using [Normalize.css](https://necolas.github.io/normalize.css/) and [Sass](http://sass-lang.com/), so you should take a look to them.
+## The Website
 
-Here is a [GET STARTED SASS TUTORIAL](https://fr.slideshare.net/MaevaNAP/get-started-sass-tutorial-for-ulight-project)
+Ulight also needs a website! To present the project and allow web designer to propose new set of designed element to integrate to the Framework.
 
-Also, you can create a [Trello](https://trello.com/) account as we will use this tool to stay organized.
+## How can I contribute?
 
-## Versioning
-Version 1.0
+Ulight is an Open Source project build by a team of Recipient of the Google Developer Challenge Scholarship 2017 - 2018 for Front-End Developer path (Europe).
 
-## License
-Code released under the  [MIT License](/LICENSE.md).
+What does it mean?
 
-## Authors
-Members of the Udacity community!
+It means we are all beginners and hungry to learn! If this definition suits you, welcome!
 
-Recipients of the Google Developer Challenge Scholarship
+### Front-End / Integration
+
+We need Front-End developers and integrators to build the main part of the Framework, to integrate the designs and to build the Front-End part of the website.
+
+### Backend
+
+We need backend developers to develop the website, create a personalized experience for the visitors.
+
+### UX design
+
+We need UX designers to build a strong User Experience on the website.
+
+### UI / Webdesign
+
+We need web designers to build the template of the website and the set of designed elements that will be integrated in the Framework.
+
+### Marketing
+
+We will need marketing guys to present the project to the whole community.
+
+## Get Started
+### Pull the Project
+- [Install Git](https://git-scm.com/downloads)
+
+Here are some tutorials to help you install and use Git ([basic commands](https://try.github.io/levels/1/challenges/1), [full tutorial](https://www.slideshare.net/IslamSayed18/github-tutorial-83175509))
+- Create a folder that will welcome the project in your computer
+- Pull the project to make your changes
+
+### Learn and work
+In this project we are using few technologies and software to help us achieve the work. You can easily learn about those by taking a look to the tutorials.
+
+- [HTML](https://www.w3schools.com/html/) and [CSS](https://www.w3schools.com/css/default.asp) for Front-End and integration
+- [JavaScript](https://www.w3schools.com/js/default.asp) for webpage interaction
+- [SASS](http://sass-lang.com/guide) with the scss syntax (closer to the pure CSS)
+- [Reboot.css](https://v4-alpha.getbootstrap.com/content/reboot/)
+- [Gulp](https://gulpjs.com/)
+- [PHP](https://www.w3schools.com/php/)
+- [MySQL](http://www.mysqltutorial.org/)
+
+## Contact
+### Slack
+If you are from the Udacity Front-End Developer path, you can join the channel #ulight on Slack
+
+### Leads
+- Maeva NAP (Management)
+- Sarah F (Management)
+- Asher (UX Design)
+- Apostolos Ichtsis (Backend)
+- JABedford (Webdesign)
+- kontakt.adamowicz (Front-End)
+- Gehad (Marketing)
