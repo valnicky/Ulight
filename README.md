@@ -1,15 +1,15 @@
 # Ulight
 
-Welcome to the Ulight Project!
+Welcome to the **Ulight Project**!
 
 Here, we are making a Framework and a website for this Framework!
 
-Ulight is a CSS/ JavaScript Framework to style original websites.
+**Ulight** is a **CSS/ JavaScript Framework** to style original websites.
 
 
 ## The Framework
 
-Ulight allows Front-End Developer to build original websites. It breaks the rules and the standards of the website to let the developers express their creativity!
+Ulight allows Front-End Developer to build original websites. **It breaks the rules and the standards of the website to let the developers express their creativity!**
 
 Ulight will propose a large library of set of designed elements that developers should use to style their own HTML files. By using classes, developers will be able to access to that library and should choose the design of their choice.
 
