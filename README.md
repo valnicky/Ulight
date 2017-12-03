@@ -43,7 +43,7 @@ We need web designers to build the template of the website and the set of design
 
 ### Marketing
 
-We will need marketing guys to present the project to the whole community.
+we need markters or people that are interested in marketing to make the project in better positioning and present it to the whole community.
 
 ## Get Started
 ### Pull the Project
