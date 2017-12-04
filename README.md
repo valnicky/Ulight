@@ -69,6 +69,7 @@ In this project we are using few technologies and software to help us achieve th
 If you are from the Udacity Front-End Developer path, you can join the channel #ulight on Slack
 
 ### Trello
+You will find all tasks to do in those trello boards. Once you've decided what you want to do, contact the lead of the field and ask him to assign you the task.
 - UX Design: 
 - Backend: https://trello.com/b/0UGED8ew/backend
 - UI/ Web design:
