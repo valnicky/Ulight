@@ -31,7 +31,7 @@ We need Front-End developers and integrators to build the main part of the Frame
 
 ### Backend
 
-We need backend developers to develop the website, create a personalized experience for the visitors.
+The Back-End, for those who might not know what it is, is responsible for the functionality of the site including connecting to a database, handling data provided by the user and many more. The language we are going to use is PHP. Most of us are new to this language so don't hesitate to join us even if you are a beginner. The only thing we need from you is to be willing to learn! In the Trello section below you can find a link for our Trello board. You can also find me in Slack @Apostolos Ichtsis.
 
 ### UX design
 
@@ -70,7 +70,7 @@ If you are from the Udacity Front-End Developer path, you can join the channel #
 
 ### Trello
 - UX Design: 
-- Backend:
+- Backend: https://trello.com/b/0UGED8ew/backend
 - UI/ Web design:
 - Front-End:
 - Marketing:
