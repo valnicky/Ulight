@@ -35,7 +35,7 @@ The Back-End, for those who might not know what it is, is responsible for the fu
 
 ### UX design
 
-We need UX designers to build a strong User Experience on the website.
+The UX Design team are responsible for building a strong user experience for Ulight. If you are passionate about user experience and design, you will help contribute to the UX document which includes but not limited to challenges, user empathy, defining UX problems, ideation, design concepts, wireframes, prototyping and testing. The UX process which we will follow is: Empathise > Define > Ideate > Prototype > Test. 
 
 ### UI / Webdesign
 
