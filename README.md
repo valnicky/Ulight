@@ -39,7 +39,7 @@ We need UX designers to build a strong User Experience on the website.
 
 ### UI / Webdesign
 
-We need web designers to build the template of the website and the set of designed elements that will be integrated in the Framework.
+We need web designers and graphic designers of all abilities to build the template of the website and the set of designed elements that will be integrated in the Framework. We are focusing mainly on improving skills that we already have, and this will very much be a work in progress that is constantly evolving and improving over time. 
 
 ### Marketing
 
@@ -73,6 +73,6 @@ If you are from the Udacity Front-End Developer path, you can join the channel #
 - Sarah F (Management)
 - Asher (UX Design)
 - Apostolos Ichtsis (Backend)
-- JABedford (Webdesign)
+- JABedford (UI/Web design)
 - kontakt.adamowicz (Front-End)
 - Gehad (Marketing)
