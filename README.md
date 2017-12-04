@@ -27,7 +27,7 @@ It means we are all beginners and hungry to learn! If this definition suits you,
 
 ### Front-End / Integration
 
-We need Front-End developers and integrators to build the main part of the Framework, to integrate the designs and to build the Front-End part of the website.
+We need Integrators to translate the set of designed elements into code to integrate them in the Framework. We will write the code to let the users pick up some classes to add in his/ her HTML file for using original designs in their own website. We also need Front-End developers to build the core of the Framework and the website. Let's build a light and efficient Framework and an interactive website!
 
 ### Backend
 
@@ -69,7 +69,7 @@ You will find all **tasks** to do in those trello boards. Once you've decided wh
 - UX Design: 
 - Backend: https://trello.com/b/0UGED8ew/backend
 - UI/ Web design:
-- Front-End:
+- Front-End: https://trello.com/b/dc21HkUj/front-end
 - Marketing:
 
 ## Contact
@@ -77,10 +77,9 @@ You will find all **tasks** to do in those trello boards. Once you've decided wh
 If you are from the Udacity Front-End Developer path, you can join the channel #ulight on Slack
 
 ### Leads
-- Maeva NAP (Management)
 - Sarah F (Management)
 - Asher (UX Design)
 - Apostolos Ichtsis (Backend)
 - JABedford (UI/Web design)
-- kontakt.adamowicz (Front-End)
+- Maeva NAP (Front-End)
 - Gehad (Marketing)
