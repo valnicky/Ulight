@@ -43,7 +43,7 @@ We need web designers and graphic designers of all abilities to build the templa
 
 ### Marketing
 
-we need markters or people that are interested in marketing to make the project in better positioning and present it to the whole community.
+We need markters or people that are interested in marketing to make the project in better positioning and present it to the whole community.
 
 ## Get Started
 ### Pull the Project
@@ -67,6 +67,13 @@ In this project we are using few technologies and software to help us achieve th
 ## Contact
 ### Slack
 If you are from the Udacity Front-End Developer path, you can join the channel #ulight on Slack
+
+### Trello
+- UX Design: 
+- Backend:
+- UI/ Web design:
+- Front-End:
+- Marketing:
 
 ### Leads
 - Maeva NAP (Management)
