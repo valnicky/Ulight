@@ -35,11 +35,11 @@ The Back-End, for those who might not know what it is, is responsible for the fu
 
 ### UX design
 
-The UX Design team are responsible for building a strong user experience for Ulight. If you are passionate about user experience and design, you will help contribute to the UX document which includes but not limited to challenges, user empathy, defining UX problems, ideation, design concepts, wireframes, prototyping and testing. The UX process which we will follow is: Empathise > Define > Ideate > Prototype > Test. 
+The UX Design team are responsible for building a strong user experience for Ulight. If you are passionate about user experience and design, you will help contribute to the UX document which includes but not limited to challenges, user empathy, defining UX problems, ideation, design concepts, wireframes, prototyping and testing. The UX process which we will follow is: Empathise > Define > Ideate > Prototype > Test.
 
 ### UI / Webdesign
 
-We need web designers and graphic designers of all abilities to build the template of the website and the set of designed elements that will be integrated in the Framework. We are focusing mainly on improving skills that we already have, and this will very much be a work in progress that is constantly evolving and improving over time. 
+We need web designers and graphic designers of all abilities to build the template of the website and the set of designed elements that will be integrated in the Framework. We are focusing mainly on improving skills that we already have, and this will very much be a work in progress that is constantly evolving and improving over time.
 
 ### Marketing
 
@@ -66,11 +66,11 @@ In this project we are using few technologies and software to help us achieve th
 
 ### Trello
 You will find all **tasks** to do in those trello boards. Once you've decided what you want to do, contact the lead of the field and ask him to assign you the task.
-- UX Design: 
+- UX Design:
 - Backend: https://trello.com/b/0UGED8ew/backend
 - UI/ Web design:
 - Front-End: https://trello.com/b/dc21HkUj/front-end
-- Marketing:
+- Marketing:https://trello.com/b/6qyC7P5z/marketing
 
 ## Contact
 ### Slack
