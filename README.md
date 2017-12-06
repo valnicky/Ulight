@@ -19,7 +19,7 @@ Ulight also needs a website! To present the project and allow web designer to pr
 
 ## How can I contribute?
 
-Ulight is an Open Source project build by a team of Recipient of the Google Developer Challenge Scholarship 2017 - 2018 for Front-End Developer path (Europe).
+Ulight is an Open Source project build by a team of Recipient of the Google Developer Challenge Scholarship 2017 - 2018 for Front-End Developer path (Europe, Russia, Egypt, Israel, Turkey).
 
 What does it mean?
 
