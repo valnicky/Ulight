@@ -68,7 +68,7 @@ In this project we are using few technologies and software to help us achieve th
 You will find all **tasks** to do in those trello boards. Once you've decided what you want to do, contact the lead of the field and ask him to assign you the task.
 - UX Design: https://trello.com/b/rc1sScmS/ux-design
 - Backend: https://trello.com/b/0UGED8ew/backend
-- UI/ Web design:
+- UI/ Web design: https://trello.com/b/ODKM9jhg/graphic-design
 - Front-End: https://trello.com/b/dc21HkUj/front-end
 - Marketing:https://trello.com/b/6qyC7P5z/marketing
 
