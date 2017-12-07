@@ -1,0 +1,25 @@
+{
+  "name": "ulight",
+  "version": "1.0.0",
+  "description": "Front-End Framework to add original styles to websites",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maevanapcontact/Ulight.git"
+  },
+  "keywords": [
+    "framework"
+  ],
+  "author": "Maeva NGUYEN ANH PHUONG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maevanapcontact/Ulight/issues"
+  },
+  "homepage": "https://github.com/maevanapcontact/Ulight#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
