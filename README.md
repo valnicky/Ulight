@@ -73,7 +73,7 @@ You can find this link following those steps:
 `cd Ulight`
 - Set the **remote upstream** to the original repository using this command:
 
-`git remore add upstream https://github.com/maevanapcontact/Ulight.git`
+`git remote add upstream https://github.com/maevanapcontact/Ulight.git`
 - Be sure to be **up-to-date** with your version of the repository with those commands:
 
 ```
