@@ -1,0 +1,29 @@
+.container {
+  box-sizing: border-box; }
+
+.container {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  clear: both; }
+  .container::after {
+    content: "";
+    display: block; }
+
+.rows {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  clear: both; }
+  .rows::after {
+    content: "";
+    display: block; }
+
+.col-12-1 {
+  width: 8.33333%; }
+
+.col-12-3 {
+  width: 25%; }
+
+.col-12-12 {
+  width: 100%; }

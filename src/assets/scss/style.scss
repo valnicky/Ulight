@@ -1,0 +1,39 @@
+// IMPORT
+@import 'box-sizing';
+
+// MIXINS
+@mixin stickEdges {
+  margin: 0;
+  padding: 0;
+}
+
+@mixin afterBlock {
+  content: "";
+  display: block;
+}
+
+// CONTAINERS + ROWS
+.container {
+  @include stickEdges;
+  width: 100%;
+  clear: both;
+  &::after {
+    @include afterBlock;
+  }
+}
+
+.rows {
+  @include stickEdges;
+  width: 100%;
+  clear: both;
+  &::after {
+    @include afterBlock;
+  }
+}
+
+// GRID 12 COLUMNS
+@for $i from 1 to 13 {
+    .col-12-#{$i} {
+        width: (100% * $i) / 12;
+    }
+}
