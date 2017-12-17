@@ -10,6 +10,8 @@ Here, we are making a Framework and a website for this Framework!
 
 **To work with the website, please visit [this repository](https://github.com/maevanapcontact/Ulight-Website)**
 
+Check the [series of video Tutorial](https://www.youtube.com/playlist?list=PLdq6rGMrHh8SfeT3zCx60s9tExzZJGkh6) about the Ulight project!
+
 
 ## The Framework
 
@@ -47,7 +49,7 @@ We need web designers and graphic designers of all abilities to build the templa
 
 ### Marketing
 
-We need markters or people that are interested in marketing to make the project in better positioning and present it to the whole community.
+We need marketers or people that are interested in marketing to make the project in better positioning and present it to the whole community.
 
 ## Get Started
 
