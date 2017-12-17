@@ -49,7 +49,7 @@ We need web designers and graphic designers of all abilities to build the templa
 
 ### Marketing
 
-We need markters or people that are interested in marketing to make the project in better positioning and present it to the whole community.
+We need marketers or people that are interested in marketing to make the project in better positioning and present it to the whole community.
 
 ## Get Started
 
