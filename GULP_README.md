@@ -3,6 +3,7 @@ Styles are broken down into the following groups: **Base, Layout, Atoms, Molecul
 ## Getting Started
 
 1. If needed, [install](http://blog.nodeknockout.com/post/65463770933/how-to-install-node-js-and-npm) `node` and `npm` (Node Package Manager).
+   Good Alternative is to install Node via [NVM](https://github.com/creationix/nvm) or [n-install](https://github.com/mklement0/n-install), because it resolves some issues with installing packages.
 
 * If needed, install `gulp` with `npm install gulp -g`.
 * In terminal, `cd` to the folder containing your project. Alternatively, you can type `cd` and drag the location of the folder into your terminal and hit enter (on Macs).
@@ -164,3 +165,4 @@ This toolkit is based on the work of the following fine people & projects.
 * [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate)
 * [Scalable and Modular Architecture for CSS](http://smacss.com/book) (<abbr title="Scalable and Modular Architecture for CSS">SMACSS</abbr>)
 * [Atomic Design](http://atomicdesign.bradfrost.com)
+* [Sassy Starter](https://github.com/minamarkham/sassy-starter)
