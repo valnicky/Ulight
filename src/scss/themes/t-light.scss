@@ -1,6 +1,39 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
 // NAV
 .t-light-nav {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+  padding: 1rem;
+  list-style: none;
+  background-color: #474747;
+}
 
+.t-light-nav {
+  ul{
+    grid-column: 2 / 3;
+    justify-self: center;
+  }
+
+  li {
+    display: inline-block;
+    list-style: none;
+  }
+
+  a {
+    text-decoration: none;
+    color: #f7f7f7;
+    margin: 0 10px;
+    font-size: 1.2rem;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
 }
 
 // HEADER
