@@ -38,25 +38,30 @@
 
 // HEADER
 .t-light-header {
-
+	background: linear-gradient(90deg, #cd7502 0%, #d17902 16%, 
+	#d47e02 33%, #d88202 50%, #dc8702 66%, #df8b02 83%, #e39002 100%);
 }
 
 // SECTION
 .t-light-section {
-
+	background-color: #fff;
+  box-shadow: 0 3px 3px #d1d1d1;
 }
 
 // ARTICLE
 .t-light-article {
-
+  background-color: #fff;
+  border: 1px solid #e39002;
 }
 
 // ASIDE
 .t-light-aside {
-
+  background-color: #f5f5f5;
+  border: 1px solid #e39002;
 }
 
 //FOOTER
 .t-light-footer {
-
+  background-color: #f5f5f5;
+  border-top: 1px solid #dddddd;
 }
