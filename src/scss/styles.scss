@@ -70,3 +70,9 @@ $pesticide-debug-depth: false;
 // $Shame
 // ==========================================================================
 @import "shame";
+
+// class for grid of 12 columns
+.col-12 {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+}
