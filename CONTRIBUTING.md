@@ -81,8 +81,8 @@ git remote add upstream https://github.com/maevanapcontact/Ulight.git
 * Be sure to be **up-to-date** with your version of the repository with those commands:
 
 ```
-git checkout ulight-dev
-git pull upstream ulight-dev
+git checkout master
+git pull upstream master
 ```
 
 For more information about remotes check [this tutorial](https://help.github.com/articles/adding-a-remote/)
@@ -100,7 +100,7 @@ When you are ready to submit your work, then continue.
 * Locally **rebase the upstream branch** into the branch you have created to do your changes by using this command:
 
 ```
-git pull --rebase upstream ulight-dev
+git pull --rebase upstream master
 ```
 
 * **Push your work** (on your new branch) in your own fork of the project using this command:
@@ -109,7 +109,7 @@ git pull --rebase upstream ulight-dev
 git push origin name-of-your-branch
 ```
 
-* Open a **Pull Request** to submit your work. Be sure to propose it into the branch ulight-dev.
+* Open a **Pull Request** to submit your work. Be sure to propose it into the branch master.
 
 Here is a [tutorial about Pull Requests](https://help.github.com/articles/creating-a-pull-request/)
 
