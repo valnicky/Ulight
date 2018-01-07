@@ -16,6 +16,7 @@
 ## JAVASCRIPT
 - amierzwinska
 - cristianiacobanu
+- DevS
 
 ## Finish the Christmas Template
 - KatMi
