@@ -1,7 +1,7 @@
 # Team
 
 ## UX DESIGNER
-- MaevaNap
+- Sarah Coughlan
 
 ## WEB DESIGNER
 - Sarah F
