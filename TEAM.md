@@ -1,9 +1,11 @@
 # Team
 
 ## UX DESIGNER
+- MaevaNap
 
 ## WEB DESIGNER
 - Sarah F
+- MaevaNap
 
 ## HTML / CSS
 - andra_k94e
@@ -12,11 +14,14 @@
 - Marta
 - Bhnas
 - Sarah F
+- Enas
+- alphago
 
 ## JAVASCRIPT
 - amierzwinska
 - cristianiacobanu
 - DevS
+- alphago
 
 ## Finish the Christmas Template
 - KatMi
