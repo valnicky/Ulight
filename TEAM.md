@@ -19,6 +19,7 @@
 - alphago
 - islam
 - Carlos Nah
+- valery0007
 
 ## JAVASCRIPT
 - amierzwinska
