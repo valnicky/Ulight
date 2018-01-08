@@ -21,6 +21,7 @@
 - Carlos Nah
 - valery0007
 - yigitserdar 
+- Matija Galina
 
 ## JAVASCRIPT
 - amierzwinska
@@ -28,6 +29,8 @@
 - DevS
 - alphago
 - Carlos Nah
+- Matija Galina
+- Reynier Téllez
 
 ## Finish the Christmas Template
 - KatMi
