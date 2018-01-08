@@ -5,7 +5,8 @@
 
 ## WEB DESIGNER
 - Sarah F
-- MaevaNap
+- emmann
+- Marta
 
 ## HTML / CSS
 - andra_k94e
