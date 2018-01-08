@@ -18,12 +18,14 @@
 - Enas
 - alphago
 - islam
+- Carlos Nah
 
 ## JAVASCRIPT
 - amierzwinska
 - cristianiacobanu
 - DevS
 - alphago
+- Carlos Nah
 
 ## Finish the Christmas Template
 - KatMi
