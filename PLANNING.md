@@ -69,4 +69,5 @@
 - For HTML / CSS: First test on Codepen and submit your code on Codepen before making your pull request
 - **Use branch master** for simplicity, the old uligh-dev branch was removed
 - **BE SURE YOU COMMIT ONLY YOUR CHANGES**! Don not include commits from other prople in your pull requests!
+- Add your code on Codepen for checking before doing your pull request
 
