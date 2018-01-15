@@ -333,3 +333,13 @@ display: grid;
 grid-template-columns: 1fr repeat(2, 4fr) 1fr;
 grid-column-gap: 1em;
 }
+.col-1-2-2{
+display: grid;
+grid-template-columns: 1fr 2fr 2fr;
+}
+
+.col-1-2-2-gap{
+display: grid;
+grid-template-columns: 1fr 2fr 2fr;
+grid-column-gap: 1em;
+}
