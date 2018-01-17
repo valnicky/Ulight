@@ -17,15 +17,15 @@
 
 - [x] Write all the issues to do to help building the Framework and website (I do this one on the DAY 1)
 
-- [ ] Doing between 1 and 3 templates (web design) to implement on the Framework
+- [x] Doing between 1 and 3 templates (web design) to implement on the Framework
 
 - [ ] Implementing some easy layout with the Grid System (1 direction for now)
 
-- [ ] Finish to do the current issues (implementing the 3 basics themes which already exists)
+- [x] Finish to do the current issues (implementing the 3 basics themes which already exists)
 
 - [x] Build between 2 or 3 HTML pages to test the Framework
 
-- [ ] Do the UX of the Website
+- [x] Do the UX of the Website
 
 
 
