@@ -31,9 +31,9 @@
 
 ## WEEK 2
 
-- [ ] Doing between 1 and 3 more templates (web design) to implement on the Framework
+- [x] Doing between 1 and 3 more templates (web design) to implement on the Framework
 
-- [ ] Build between 2 or 3 more HTML pages to test the Framework
+- [x] Build between 2 or 3 more HTML pages to test the Framework
 
 - [ ] Implementing some easy layout (2 dimensions this time) with the Grid System
 
