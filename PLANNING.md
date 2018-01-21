@@ -45,7 +45,7 @@
 
 - [ ] Do the HTML and CSS of the Website
 
-- [ ] Start implementing the templates in SCSS in the Framework
+- [x] Start implementing the templates in SCSS in the Framework
 
 - [ ] Implement more complex layout with CSS Grid
 
