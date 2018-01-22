@@ -282,6 +282,17 @@ $pesticide-debug-depth: false;
   grid-row-gap: 1em;
 }
 
+.row-50 {
+  display: grid;
+  grid-template-rows: minmax(50px, auto);
+}
+
+.row-50-gap {
+  display: grid;
+  grid-template-rows: minmax(50px, auto)
+  grid-row-gap 1em;
+}
+
 // classes of 3 columns (40% / 40% / 20%) using "fr" units
 
 .col-4-4-2 {
