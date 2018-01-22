@@ -354,3 +354,27 @@ display: grid;
 grid-template-columns: 1fr 2fr 2fr;
 grid-column-gap: 1em;
 }
+
+//Grid 02 layout
+.layout-02-container{
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    grid-template-rows: 2fr 6fr 1fr;
+    grid-template-areas: 
+    "item-1 item-2"
+    "item-3 item-2"
+    "item-3 item-4";
+    grid-gap: 1em;
+}
+.layout-02-item-1{
+    grid-area: item-1;
+}
+.layout-02-item-2{
+    grid-area: item-2;
+}
+.layout-02-item-3{
+    grid-area: item-3;
+}
+.layout-02-item-4{
+    grid-area: item-4;
+}
