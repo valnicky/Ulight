@@ -1,26 +1,44 @@
 {
-  "name": "udacity-team-project",
-  "version": "1.0.0",
-  "description": "A CSS/ JavaScript Framework to add some style to the web pages.",
-  "main": "index.js",
-  "directories": {
-    "doc": "docs"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "name": "ulight",
+  "title": "Ulight CSS framework",
+  "description": "A light Framework for Front-End Developer to build original and artistic websites!",
+  "version": "0.1.0",
+  "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Puritanic/udacity-team-project.git"
+    "url": "https://github.com/maevanapcontact/Ulight"
   },
   "keywords": [
-    "css",
-    "udacity"
+    "sass",
+    "scss",
+    "CSS",
+    "boilerplate",
+    "gulp"
   ],
-  "author": "",
-  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Puritanic/udacity-team-project/issues"
+    "url": "https://github.com/maevanapcontact/Ulight/issues"
   },
-  "homepage": "https://github.com/Puritanic/udacity-team-project#readme"
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.0.0-rc4",
+    "colors": "^1.1.2",
+    "del": "^3.0.0",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-clean-css": "^3.9.0",
+    "gulp-concat": "^2.4.3",
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-imagemin": "^4.0.0",
+    "gulp-notify": "^3.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sass-lint": "1.3.4",
+    "gulp-size": "^2.1.0",
+    "gulp-sourcemaps": "^2.6.2",
+    "gulp-uglify": "^3.0.0",
+    "imagemin-pngquant": "^5.0.1",
+    "run-sequence": "^2.2.0",
+    "vinyl-paths": "^2.0.0"
+  }
 }

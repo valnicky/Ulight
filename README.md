@@ -1,36 +1,92 @@
-# ULIGHT
-A CSS/JavaScript Framework to add some original style to the web pages.
+# Ulight
 
-## Purpose of the project
-The goal is to provide a useful Front-End Framework to help developers building original websites. The purpose of Ulight is to propose various styles based on designed templates.
+A light **Framework** for Front-End Developer to build original and artistic websites!
 
-**Ulight is build by a team of passionated and implicated juniors.**
-
-Our goal is to make it easy for beginners to contribute to an Open Source project. It can be hard to make your first Pull Request or to even understand well how an Open Source project is built! But YOU ARE NOT ALONE! 
-
-Every developers had started one day and was a beginner. Here we are still beginners as well, but we are hungry to learn!
-
-**If you feel lost, if you are just a young developer and are looking for a project to learn and to be a part of the community, you are more than welcome!** We try to keep this repository clean and well organized and to give you all the keys needed to be able to participate, even if you are new in coding!
-
-Take a look to this README, read the documentation associated, surf inside the folders and read the code. If there is anything unclear, that's maybe because we didn't pay enough attention to that! So let us know where you are stuck and we will add the resources needed in order to make your journey through this project as pleasant as possible!
 
 ## Getting Started
-The project has no version to test yet. You can fork the project and pull it in your computer to have a full access to the files.
 
-# Requirements
-The project is using [Normalize.css](https://necolas.github.io/normalize.css/) and [Sass](http://sass-lang.com/), so you should take a look to them.
+To use this framework, **copy the code** in the CSS file (src/assets/css/style.css).
 
-Here is a [GET STARTED SASS TUTORIAL](https://fr.slideshare.net/MaevaNAP/get-started-sass-tutorial-for-ulight-project)
+Then **paste** it on your own CSS file (on your own project) and link it to your index.html.
 
-Also, you can create a [Trello](https://trello.com/) account as we will use this tool to stay organized.
+You are now able to use all the **CSS classes** of the Framework!
+
+
+### Prerequisites
+
+You need to have an **HTML file** to link the CSS code of the Framework.
+
+
+### Installing
+
+- Go to **src/assets/css/style.css** on this repository
+- **Copy the content** of the file
+- Open your own project on your text editor
+- Create a **new CSS file** (e.g. ulight.css)
+- Paste the code you have copied from this repository on your new CSS file
+- **Link your CSS file** on your main HTML file (usually index.html)
+
+```
+<link rel="stylesheet" src="/path-to-your-CSS-file/ulight.css">
+```
+
+- You can now use the Framework!
+
+
+### Using
+
+You can use the classes defined on the CSS file of the Framework like that:
+
+- Find a class that interests you (e.g. `button-style`)
+- Use the **class** by adding it on your HTML element (on the HTML file)
+
+```
+<button class="button-style">Click Me!</button>
+```
+
+
+### Running the tests
+
+Section Under Construction
+
+
+### Deployment
+
+Ulight is build to run on the most browsers and screens as possible.
+
+**Compatibility** is really important for us and we work with the **most used technologies.**
+
+
+## Built With
+
+- [Normalize.css](https://necolas.github.io/normalize.css/)
+- [SASS](http://sass-lang.com/guide) with scss syntax
+
+
+## Contributing
+
+**Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.**
+
 
 ## Versioning
-Version 1.0
 
-## License
-Code released under the  [MIT License](/LICENSE.md).
+Version 1.0.0
+
 
 ## Authors
-Members of the Udacity community!
 
-Recipients of the Google Developer Challenge Scholarship
+Maeva NGUYEN ANH PHUONG - Initial work
+
+Students of **Google Developer Challenge Scholarship - Front-End Dev 2017/2018**
+
+See also the list of contributors who participated in this project.
+
+
+## License
+
+This project is licensed under the **MIT License** - see the [LICENSE.md](LICENSE.md) file for details
+
+
+## Acknowledgments
+
+Thank you to [Udacity](https://www.udacity.com/) and [Google](https://developers.google.com/) for the [Google Developer Challenge Scholarship](https://blog.udacity.com/2017/09/announcing-60000-challenge-scholarships-udacity-google.html). This project won't exist without you :)
