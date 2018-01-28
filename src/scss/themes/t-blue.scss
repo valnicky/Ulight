@@ -6,13 +6,16 @@
 
 // NAV
 .t-blue-nav {
-	background-color: #36EEE0;
-	width: 100%;
+
 }
 
 // HEADER
 .t-blue-header {
-
+	grid-area: 2 / 1 / 3 / 2;
+  background-color: #8dfff3;
+  height: 50px;
+  margin-bottom: 8px;
+	width: 100%;
 }
 
 // SECTION
