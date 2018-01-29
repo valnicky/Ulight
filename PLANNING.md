@@ -19,7 +19,7 @@
 
 - [x] Doing between 1 and 3 templates (web design) to implement on the Framework
 
-- [ ] Implementing some easy layout with the Grid System (1 direction for now)
+- [x] Implementing some easy layout with the Grid System (1 direction for now)
 
 - [x] Finish to do the current issues (implementing the 3 basics themes which already exists)
 
@@ -35,9 +35,9 @@
 
 - [x] Build between 2 or 3 more HTML pages to test the Framework
 
-- [ ] Implementing some easy layout (2 dimensions this time) with the Grid System
+- [x] Implementing some easy layout (2 dimensions this time) with the Grid System
 
-- [ ] Do the web design of the website
+- [x] Do the web design of the website
 
 
 
@@ -47,7 +47,7 @@
 
 - [x] Start implementing the templates in SCSS in the Framework
 
-- [ ] Implement more complex layout with CSS Grid
+- [x] Implement more complex layout with CSS Grid
 
 
 
@@ -56,8 +56,6 @@
 - [ ] Add JavaScript to the Website
 
 - [ ] Finish to implement all the templates to the Framework
-
-- [ ] Implement complex layouts with CSS Grid
 
 - [ ] Match all together
 
