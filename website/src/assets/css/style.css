@@ -1,5 +1,5 @@
-<<<<<<< HEAD
 /* We can use normalize css instead */
+/* .............. ABOUT VIEW ................... */
 *{
     box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -130,7 +130,6 @@
         padding: 0 0 0 10%;
     }
 } 
-=======
 /* .............. DOCUMENTATION VIEW ................... */
 
 * {
@@ -390,4 +389,3 @@ footer .fa-facebook-official {
 footer .fa:hover {
     transform: scale(1.2);
 }
->>>>>>> 19849bcf935b7af14598cd973fc7b40ff137b8de
