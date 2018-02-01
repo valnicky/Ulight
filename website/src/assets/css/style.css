@@ -295,9 +295,10 @@ aside {
     padding: 0 20px;
     border-radius: 4px;
 }
-
+/* **** Please avoid general selctors ******* */
+/* I uncomment background color because it is impact on another section  */
 section {
-    background-color: #cfd8dc;
+    /* background-color: #cfd8dc; */
     margin: 20px 0;
 }
 
