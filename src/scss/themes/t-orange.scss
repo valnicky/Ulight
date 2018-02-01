@@ -1,0 +1,122 @@
+/* NAV */
+  .t-orange-nav{
+      background-color: #FF5F6D; 
+      color: #fff9c4;
+      position: relative;
+      z-index: 11;
+  }
+
+  .t-orange-nav > div {
+    border-bottom: 3px solid white;
+    max-width: 60vw;
+    margin: 0 auto;
+    padding: 15px 0;
+    max-height: 12vh;
+  }
+
+  .t-orange-nav p {
+    font-size: 10px;
+  }
+
+/* HEADER */
+  .t-orange-header{
+    padding: 20px 0;
+    background-color: rgba(253, 122, 126, 0);
+    color: #fff9c4;
+    width: 100%;
+    margin: 0 auto;      
+    z-index:10;
+  }
+
+
+  header div {
+    position: relative;
+    z-index: 11;
+  }
+
+  header svg {
+    margin-top: 9vh;
+    padding-top: calc(1vh -1px);
+    display: block;
+    position: relative;
+    clear: both;
+  }
+
+  #main-container {
+    position:relative;
+    margin: 0px auto;
+    margin-top: 50vh;
+    padding-top: 50vh;
+    z-index: 1;
+    width: 100vw;
+    clear:both;
+  }
+
+  header svg {
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 10vh;
+  }
+  .container {
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    padding-bottom: 100%;
+    vertical-align: middle;
+    overflow: hidden;
+
+  }
+
+/* SECTION */
+
+  .t-orange-section{
+    background-color: #FFFFFF;
+     color: #FF5F6D;
+     height: 300px;
+     width: 95%;
+     margin: 0 auto;
+
+  }
+
+  .t-orange-section > div {
+    border-bottom: 3px solid black;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 100px 0;
+  }
+
+/* ARTICLE */
+
+  .t-orange-article{
+     background-color: #FFFFFF;
+     color: #FF5F6D;
+     height: 300px;
+     width: 95%;
+     margin: 0 auto;
+  }
+
+  .t-orange-article > div {
+    border-bottom: 3px solid black;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 100px 0;
+  }
+
+/* ASIDE */
+  .t-orange-aside{
+    background-color: #FFFFFF;
+    color: #FF5F6D;
+    height: 30vh;
+
+
+  }
+
+/* FOOTER */
+  .t-orange-footer{
+    background-color: #FF5F6D;
+    color: #fff9c4;
+    width: 100%;
+    height: 10vh;
+  }
