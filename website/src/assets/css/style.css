@@ -1,5 +1,5 @@
-<<<<<<< HEAD
 /* We can use normalize css instead */
+/* .............. ABOUT VIEW ................... */
 *{
     box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -130,7 +130,6 @@
         padding: 0 0 0 10%;
     }
 } 
-=======
 /* .............. DOCUMENTATION VIEW ................... */
 
 * {
@@ -296,9 +295,10 @@ aside {
     padding: 0 20px;
     border-radius: 4px;
 }
-
+/* **** Please avoid general selctors ******* */
+/* I uncomment background color because it is impact on another section  */
 section {
-    background-color: #cfd8dc;
+    /* background-color: #cfd8dc; */
     margin: 20px 0;
 }
 
@@ -390,4 +390,3 @@ footer .fa-facebook-official {
 footer .fa:hover {
     transform: scale(1.2);
 }
->>>>>>> 19849bcf935b7af14598cd973fc7b40ff137b8de
