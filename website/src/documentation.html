@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -5,111 +6,132 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Ulight - a light Framework for Front-End Developer</title>
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Capriola" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/style.css">
 </head>
 
 <body>
     <nav>
-        <img src="#" alt="ulight logo"></img>
-        <button>
-            <a href="home.html">HOME</a>
-        </button>
-        <button>
-            <a href="documentation.html">DOCUMENTATION</a>
-        </button>
-        <button>
-            <a href="about.html">ABOUT US</a>
-        </button>
-        <a href="https://github.com/maevanapcontact/Ulight">
-            <img src="../SVG/social_white/github-6003_e9f6c1ce-915f-4d5c-8607-79c2d1512c8a.svg" alt="github icon">
-        </a>
-        <a href="#">
-            <img src="../SVG/social_white/facebook-5988_020da1c2-57f9-4f48-8382-a6523282796c.svg" alt="facebook icon">
-        </a>
+        <img src="../SVG/logo_Ulight-06.svg" alt="ulight logo" class="logo">
+         <div class="nav__menu">
+            <a href="home.html" class="nav__link">HOME</a>
+            <a href="documentation.html" class="nav__link">DOCUMENTATION</a>
+            <a href="about.html" class="nav__link">ABOUT US</a>
+            <a href="https://github.com/maevanapcontact/Ulight">
+                <img src="../SVG/social_white/github-6003_e9f6c1ce-915f-4d5c-8607-79c2d1512c8a.svg" alt="github icon" class="icon">
+            </a>
+            <a href="#">
+                <img src="../SVG/social_white/facebook-5988_020da1c2-57f9-4f48-8382-a6523282796c.svg" alt="facebook icon" class="icon">
+            </a>
+        </div>
     </nav>
-    <header>
-        <h1>Documentation</h1>
-        <p>How to get started? How to use?</p>
-        <img src="../SVG/logo_Ulight-06.svg" alt="ulight logo">
-    </header>
-    <img src="../content/ulight-for-devs-drawing.jpg" alt="infographic image spaning through more grids">
-    <section>
-        <img src="../SVG/development_icons/new-1769_47ca5dda-6344-4182-94de-e4ec58ff4985.svg" alt="getting started graphic">
-        <h2>Getting started</h2>
-    </section>
-    <aside>
-        <p>To use this framework, copy the code in the CSS file (src/assets/css/style.css). Then paste it on your own CSS file
-            (on your own project) and link it to your index.html. You are now able to use all the CSS classes of the Framework!
-        </p>
-    </aside>
-    <section>
-        <img src="../SVG/development_icons/html5-1785_65e4e0e1-ae7a-4fb8-a8f4-aee1be9d405a.svg" alt="html5 icon">
-        <img src="../SVG/development_icons/css3-1784_ee8b2beb-ce43-4eab-ba59-15493fb6037c.svg" alt="css3 icon">
-        <h2>Prerequisites</h2>
-    </section>
-    <aside>
-        <p>You need to have an HTML file to link the CSS code of the Framework.</p>
-    </aside>
-    <section>
-        <img src="../SVG/development_icons/upload-1742_90944724-6c1f-4745-ad07-75ed59b07986.svg" alt="install icon">
-        <h2>Installing</h2>
-    </section>
-    <aside>
-        <ul>
-            <li>Go to
-                <a href="#">src/assets/css/style.css</a>on this repository</li>
-            <li>Copy the content of the file</li>
-            <li>Open your own project on your text editor</li>
-            <li>Create a new CSS file (e.g. ulight.css)</li>
-            <li>Paste the code you have copied from this repository on your new CSS file</li>
-            <li>Link your CSS file on your main HTML file (usually index.html)
-                <pre>< link rel="stylesheet" src="/path-to-your-CSS-file/ulight.css" ></pre>
-            </li>
-            <li>You can now use the Framework!</li>
-        </ul>
-    </aside>
-    <section>
-        <img src="../SVG/development_icons/code-window-1753_67e3cbfe-2f1b-4c82-8727-3e717e49d80a.svg" alt="code window icon">
-        <h2>Using</h2>
-    </section>
-    <aside>
-        <p>You can use the classes defined on the CSS file of the Framework like that:</p>
-        <ul>
-            <li>Find a class that interests you (e.g. button-style)</li>
-            <li>Use the class by adding it on your HTML element (on the HTML file)
-                <pre>< button class="button-style">Click Me!</button ></pre>
-            </li>
-        </ul>
-    </aside>
-    <section>
-        <img src="../SVG/development_icons/computer-network-1878_736c5f33-f6c7-4994-8b2d-b8163a4e05c3.svg" alt="connected computers icon">
-        <h2>Deployment</h2>
-    </section>
-    <aside>
-        <p>Ulight is build to run on the most browsers and screens as possible. Compatibility is really important for us and
-            we work with the most used technologies.
-        </p>
-    </aside>
-    <section>
-        <img src="..SVG/development_icons/config-5934_50368ac8-7429-444d-b5c1-07ada900e90f.svg" alt="gears icon">
-        <h2>Built With</h2>
-    </section>
-    <aside>
-        <ul>
-            <li>Normalize.css</li>
-            <li>SAAS</li>
-            <li>CSS Grid</li>
-        </ul>
-    </aside>
+    <main>
+        <header>
+            <div id="title">
+                <h1>Documentation</h1>
+                <p>How to get started? How to use?</p>
+            </div>
+            <img id="logo" src="../webdesign/logo_Ulight-04.png" alt="ulight logo">
+        </header>
+        <img id="infographic" src="../content/ulight-for-devs-drawing.jpg" alt="infographic image spaning through more grids">
+        <section id="getting-started" class="section-grid">
+            <div class="section-titles">
+                <img src="../SVG/development_icons/new-1769_47ca5dda-6344-4182-94de-e4ec58ff4985.svg" alt="getting started graphic">
+                <h2>Getting started</h2>
+            </div>
+            <h2 id="infographic-title" class="section-titles">See the Infographic</h2>
+        </section>
+        <aside id="getting-started-aside">
+            <p>To use this framework, copy the code in the CSS file (src/assets/css/style.css). Then paste it on your own CSS
+                file (on your own project) and link it to your index.html. You are now able to use all the CSS classes of
+                the Framework!
+            </p>
+        </aside>
+        <section id="prerequisites" class="section-grid">
+            <div class="section-titles">
+                <img src="../SVG/development_icons/html5-1785_65e4e0e1-ae7a-4fb8-a8f4-aee1be9d405a.svg" alt="html5 icon">
+                <img src="../SVG/development_icons/css3-1784_ee8b2beb-ce43-4eab-ba59-15493fb6037c.svg" alt="css3 icon">
+                <h2>Prerequisites</h2>
+            </div>
+        </section>
+        <aside id="prerequisites-aside">
+            <p>You need to have an HTML file to link the CSS code of the Framework.</p>
+        </aside>
+        <section id="installing" class="section-grid">
+            <div class="section-titles">
+                <img src="../SVG/development_icons/upload-1742_90944724-6c1f-4745-ad07-75ed59b07986.svg" alt="install icon">
+                <h2>Installing</h2>
+            </div>
+        </section>
+        <aside id="installing-aside">
+            <ul>
+                <li>Go to
+                    <a href="#">src/assets/css/style.css</a>on this repository</li>
+                <li>Copy the content of the file</li>
+                <li>Open your own project on your text editor</li>
+                <li>Create a new CSS file (e.g. ulight.css)</li>
+                <li>Paste the code you have copied from this repository on your new CSS file</li>
+                <li>Link your CSS file on your main HTML file (usually index.html)
+                    <pre>< link rel="stylesheet" <br> src="/path-to-your-CSS-file/ulight.css" ></pre>
+                </li>
+                <li>You can now use the Framework!</li>
+            </ul>
+        </aside>
+        <section id="using" class="section-grid">
+            <div class="section-titles">
+                <img src="../SVG/development_icons/code-window-1753_67e3cbfe-2f1b-4c82-8727-3e717e49d80a.svg" alt="code window icon">
+                <h2>Using</h2>
+            </div>
+        </section>
+        <aside id="using-aside">
+            <p>You can use the classes defined on the CSS file of the Framework like that:</p>
+            <ul>
+                <li>Find a class that interests you (e.g. button-style)</li>
+                <li>Use the class by adding it on your HTML element (on the HTML file)
+                    <pre>< button class="button-style">Click Me!</button ></pre>
+                </li>
+            </ul>
+        </aside>
+        <section id="deployment" class="section-grid">
+            <div class="section-titles">
+                <img src="../SVG/development_icons/computer-network-1878_736c5f33-f6c7-4994-8b2d-b8163a4e05c3.svg" alt="connected computers icon">
+                <h2>Deployment</h2>
+            </div>
+        </section>
+        <aside id="deployment-aside">
+            <p>Ulight is build to run on the most browsers and screens as possible. Compatibility is really important for us
+                and we work with the most used technologies.
+            </p>
+        </aside>
+        <section id="built" class="section-grid">
+            <div class="section-titles">
+                <img src="../SVG/development_icons/config-5934_50368ac8-7429-444d-b5c1-07ada900e90f.svg" alt="gears icon">
+                <h2>Built With</h2>
+            </div>
+        </section>
+        <aside id="built-aside">
+            <ul>
+                <li>Normalize.css</li>
+                <li>SAAS</li>
+                <li>CSS Grid</li>
+            </ul>
+        </aside>
+    </main>
     <footer>
-        <a href="home.html">HOME</a>
-        <a href="documentation.html">DOCUMENTATION</a>
-        <a href="about.html">ABOUT US</a>
-        <a href="https://github.com/maevanapcontact/Ulight">
-            <img src="../SVG/social_blue_icons/github-6003_e9f6c1ce-915f-4d5c-8607-79c2d1512c8a.svg" alt="blue github icon">
-        </a>
-        <a href="#">
-            <img src="../SVG/social_blue_icons/facebook-5988_020da1c2-57f9-4f48-8382-a6523282796c.svg" alt="blue facebook icon">
-        </a>
+        <div class="footer-content">
+            <ul>
+                <li><a href="#">HOME</a></li>
+                <li><a href="#">DOCUMENTATION</a></li>
+                <li><a href="#">ABOUT US</a></li>
+             </ul>
+             <span>
+                <i class="fa fa-github" aria-hidden="true"></i>
+             </span>
+             <span>
+                <i class="fa fa-facebook-official" aria-hidden="true"></i>
+             </span>
+        </div>
     </footer>
 </body>
 
