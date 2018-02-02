@@ -43,7 +43,7 @@
 
 ## WEEK 3
 
-- [ ] Do the HTML and CSS of the Website
+- [x] Do the HTML and CSS of the Website
 
 - [x] Start implementing the templates in SCSS in the Framework
 
@@ -53,9 +53,7 @@
 
 ## WEEK 4
 
-- [ ] Add JavaScript to the Website
-
-- [ ] Finish to implement all the templates to the Framework
+- [x] Finish to implement all the templates to the Framework
 
 - [ ] Match all together
 
@@ -68,4 +66,3 @@
 - **Use branch master** for simplicity, the old uligh-dev branch was removed
 - **BE SURE YOU COMMIT ONLY YOUR CHANGES**! Don not include commits from other prople in your pull requests!
 - Add your code on Codepen for checking before doing your pull request
-
