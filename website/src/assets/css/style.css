@@ -1,135 +1,279 @@
 /* We can use normalize css instead */
+
+/* .............. HOME/INDEX VIEW ................... */
+
+/* HEADER */
+
+.index__header {
+    display: grid;
+    grid-template-columns: 5fr 2fr 4fr 2fr 3fr 2fr;
+    grid-template-rows: repeat(5, 140px);
+}
+
+.index__logo {
+    grid-column: 3/4;
+    grid-row: 2/5;
+    width: 100%;
+    align-self: center;
+}
+
+.index__hearts {
+    grid-column: 2/3;
+    grid-row: 3/5;
+    align-self: center;
+    transform: rotate(345deg);
+}
+
+.index__pencil {
+    grid-column: 2/3;
+    grid-row: 2/3;
+    justify-self: end;
+}
+
+.index__scissor {
+    grid-column: 4/5;
+    grid-row: 2/3;
+    transform: rotate(310deg);
+}
+
+.index__sheriff {
+    grid-column: 3/4;
+    grid-row: 5/6;
+    justify-self: end;
+    align-self: start;
+}
+
+.index__star {
+    grid-column: 3/4;
+    grid-row: 1/2;
+    justify-self: end;
+    align-self: end;
+}
+
+.index__text {
+    grid-column: 5/6;
+    grid-row: 3/4;
+    font-size: 1.5rem;
+    font-weight: 100;
+    color: #cfd8dc;
+    text-align: right;
+}
+
+.index__arrow {
+    grid-column: 5/6;
+    grid-row: 4/6;
+    justify-self: end;
+    align-self: start;
+}
+
+/* SECTION */
+
+.index__section {
+    background: #cfd8dc;
+    height: 300px;
+    display: flex;
+    padding: 100px 55% 70px 150px;
+    margin-top: 100px;
+}
+
+.index__section p {
+    color: black;
+    font-size: 0.9rem;
+    width: 50%;
+    text-align: justify;
+    padding-left: 20px;
+}
+
+/* ASIDE */
+
+.index__aside {
+    width: 30%;
+    height: 400px;
+    align-items: center;
+    position: relative;
+    right: -900px;
+    top: -370px;
+    box-shadow: 0 0 20px #000;
+}
+
+.index__aside > *:nth-child(even) {
+    padding-bottom: 20px;
+    margin-top: 5px;
+}
+
+.btn-dl {
+    color: white;
+    padding: 20px;
+    font-size: 25px;
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 40px;
+    cursor: pointer;
+}
+
+.btn-dl:hover {
+    background: white;
+    color: orange;
+}
+
+.btn-dl + p {
+    color: white;
+    font-size: 12px;
+}
+
+/* FOOTER */
+
+.index__footer {
+    margin-top: -250px;
+}
+
 /* .............. ABOUT VIEW ................... */
-*{
+
+* {
     box-sizing: border-box;
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-:root{
-    --yellow-color:#fa990e;
-    --blue-color:#00b8d4;
-    --gray-color:#cfd8dc;
+
+:root {
+    --yellow-color: #fa990e;
+    --blue-color: #00b8d4;
+    --gray-color: #cfd8dc;
 }
-::selection{
+
+::selection {
     color: var(--yellow-color);
 }
-.about{
+
+.about {
     display: grid;
     grid-template-columns: 1fr;
     grid-template-rows: 200px;
     grid-gap: 3rem;
 }
-.about-inner{
+
+.about-inner {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-areas: 
-    "a b";
-   
+    grid-template-areas: "a b";
+
 }
-.about-description{
+
+.about-description {
     padding: 0 0 0 1rem;
     grid-area: a;
     align-self: center;
     justify-self: end;
 }
-.about-logo{
+
+.about-logo {
     grid-area: b;
     align-self: center;
     justify-self: start;
 }
-.about-inner .about-title{
+
+.about-inner .about-title {
     color: var(--yellow-color);
     font-family: 'Lato', sans-serif;
     font-weight: 400;
     font-size: 2rem;
 }
-.about-inner .about-summury{
+
+.about-inner .about-summury {
     color: var(--gray-color);
     font-family: 'Lato', sans-serif;
-    font-size: .6rem; 
+    font-size: .6rem;
     line-height: 80%;
 }
 
-.about-logo-img{
+.about-logo-img {
     padding: 0 0 0 8rem;
     width: 250px;
     height: auto;
 }
-.about-history{
+
+.about-history {
     position: relative;
     background: var(--gray-color);
     padding: 0 0 0 25%;
     height: 150px;
     align-self: center;
 }
-.about-inner-title{
+
+.about-inner-title {
     color: var(--yellow-color);
     font-family: 'Lato', sans-serif;
     font-weight: 400;
     font-size: 2vw;
     padding-top: 3.6rem;
 }
-.flow-box{
+
+.flow-box {
     position: absolute;
     background: var(--blue-color);
     width: 30%;
     top: 50%;
     left: 50%;
-    transform: translate(-50%,-50%);
+    transform: translate(-50%, -50%);
     height: 190px;
 }
-.about-inner-description{
+
+.about-inner-description {
     color: #000;
     padding: 0.5rem 1rem 0 1rem;
     font-size: .8rem;
-    font-family: 'Lato', sans-serif; 
+    font-family: 'Lato', sans-serif;
 }
-.about-team{
+
+.about-team {
     position: relative;
     background: var(--gray-color);
     padding: 0 0 0 25%;
     color: var(--yellow-color);
     height: 150px;
 }
+
 /* Extra Small devices */
- @media screen and (max-width:600px){
-     
-    .about-inner{
-      grid-template-columns: 1fr;
-      grid-template-areas: 
-      "a"
-      "b";
+
+@media screen and (max-width:600px) {
+
+    .about-inner {
+        grid-template-columns: 1fr;
+        grid-template-areas: "a" "b";
     }
-    .about-description{
-      grid-area: a;
-      align-self: center;
-      justify-self: center;
+    .about-description {
+        grid-area: a;
+        align-self: center;
+        justify-self: center;
     }
-    .about-logo{
-       grid-area: b;
-       align-self: center;
-       justify-self: start;
+    .about-logo {
+        grid-area: b;
+        align-self: center;
+        justify-self: start;
     }
-    
-} 
+
+}
+
 /* Medium and Small devices */
- @media screen and (max-width:910px){
-    .about{
+
+@media screen and (max-width:910px) {
+    .about {
         grid-gap: 4rem;
     }
-    
-    .flow-box{
+
+    .flow-box {
         width: 85%;
     }
-    .about-history{
+    .about-history {
         padding: 0 0 0 10%;
     }
-    .about-team{
+    .about-team {
         padding: 0 0 0 10%;
     }
-} 
+}
+
 /* .............. DOCUMENTATION VIEW ................... */
 
 * {
@@ -295,8 +439,11 @@ aside {
     padding: 0 20px;
     border-radius: 4px;
 }
+
 /* **** Please avoid general selctors ******* */
+
 /* I uncomment background color because it is impact on another section  */
+
 section {
     /* background-color: #cfd8dc; */
     margin: 20px 0;
