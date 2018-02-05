@@ -1,16 +1,14 @@
 /* NAV */
 .th-orange-nav {
-    background-color: #FF5F6D;
-    position: relative;
-    z-index: 11;
-}
+  background-color: #FF5F6D;
+  position: relative;
+  z-index: 11; }
 
 .th-orange-nav > div {
   border-bottom: 3px solid white;
   max-width: 60vw;
   margin: 0 auto;
-  padding: 15px 0;
-}
+  padding: 15px 0; }
 
 /* HEADER */
 .th-orange-header {
@@ -18,39 +16,20 @@
   background-color: rgba(253, 122, 126, 0);
   width: 100%;
   margin: 0 auto;
-  z-index:10;
-}
+  z-index: 10; }
 
 .th-orange-header div {
   position: relative;
-  z-index: 11;
-}
-
-// header svg {
-//   margin-top: 9vh;
-//   padding-top: calc(1vh -1px);
-//   display: block;
-//   position: relative;
-//   clear: both;
-// }
+  z-index: 11; }
 
 .th-orange-main-container {
-  position:relative;
+  position: relative;
   margin: 0 auto;
   margin-top: 50vh;
   padding-top: 50vh;
   z-index: 1;
   width: 100vw;
-  clear: both;
-}
-
-// header svg {
-//   display: inline-block;
-//   position: absolute;
-//   top: 0;
-//   left: 0;
-//   min-height: 10vh;
-// }
+  clear: both; }
 
 .th-orange-container {
   display: inline-block;
@@ -58,48 +37,41 @@
   width: 100%;
   padding-bottom: 100%;
   vertical-align: middle;
-  overflow: hidden;
-}
+  overflow: hidden; }
 
 /* SECTION */
 .th-orange-section {
   background-color: #fff;
-   color: #FF5F6D;
-   width: 95%;
-   margin: 0 auto;
-}
+  color: #FF5F6D;
+  width: 95%;
+  margin: 0 auto; }
 
 .th-orange-section > div {
   border-bottom: 3px solid black;
   max-width: 1000px;
   margin: 0 auto;
-  padding: 100px 0;
-}
+  padding: 100px 0; }
 
 /* ARTICLE */
 .th-orange-article {
-   background-color: #fff;
-   color: #FF5F6D;
-   width: 95%;
-   margin: 0 auto;
-}
+  background-color: #fff;
+  color: #FF5F6D;
+  width: 95%;
+  margin: 0 auto; }
 
 .th-orange-article > div {
   border-bottom: 3px solid black;
   max-width: 1000px;
   margin: 0 auto;
-  padding: 100px 0;
-}
+  padding: 100px 0; }
 
 /* ASIDE */
 .th-orange-aside {
   background-color: #fff;
-  color: #FF5F6D;
-}
+  color: #FF5F6D; }
 
 /* FOOTER */
 .th-orange-footer {
   background-color: #FF5F6D;
   color: #fff9c4;
-  width: 100%;
-}
+  width: 100%; }
