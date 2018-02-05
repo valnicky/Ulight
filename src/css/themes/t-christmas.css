@@ -1,0 +1,29 @@
+.th-christmas-nav {
+  background-color: #F7F5F7;
+  width: 31rem;
+  margin: 0 auto; }
+
+.th-christmas-header {
+  background-color: #F75738;
+  width: 29rem;
+  margin: -2rem auto 1.5rem auto; }
+
+.th-christmas-section {
+  background-color: #70AB54;
+  width: 29rem;
+  margin: 1.5rem auto; }
+
+.th-christmas-article {
+  background-color: #88D066;
+  width: 29rem;
+  margin: 1.5rem auto; }
+
+.th-christmas-aside {
+  background-color: #96E96F;
+  width: 29rem;
+  margin: 1.5rem auto; }
+
+.th-christmas-footer {
+  background-color: #F7F5F7;
+  width: 31rem;
+  margin: -1.5rem auto 2rem auto; }
