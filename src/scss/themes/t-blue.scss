@@ -1,69 +1,51 @@
-* {
+// NAV
+.th-blue-nav {
 	box-sizing: border-box;
 	margin: 0;
 	padding: 0;
-}
-
-// NAV
-.t-blue-nav {
-
+	background-color: #36EEE0;
+	width: 100%;
 }
 
 // HEADER
-.t-blue-header {
-
+.th-blue-header {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	width:100%;
+  background-color: #8dfff3;
 }
 
 // SECTION
-.t-blue-section {
-
+.th-blue-section {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+  background-color: #ecfcf9;
+  width: 100%;
 }
 
 // ARTICLE
-.t-blue-article {
-
+.th-blue-article {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+  background-color: #ecfcf9;
 }
 
 // ASIDE
-<<<<<<< HEAD
 .th-blue-aside {
 	box-sizing: border-box;
 	margin: 0;
 	padding: 0;
   background-color: #defdf7;
-||||||| merged common ancestors
-<<<<<<< Temporary merge branch 1
-.t-blue-aside {
-<<<<<<< HEAD
-||||||| merged common ancestors
-.t-blue-aside {
-=======
-.th-blue-aside {
-	box-sizing: border-box;
-	margin: 0;
-	padding: 0;
->>>>>>> Temporary merge branch 2
-  background-color: #defdf7;
-<<<<<<< Temporary merge branch 1
-  height: 40px;
-||||||| merged common ancestors
-
-=======
-	 background-color: #defdf7;
-  height: 40px;
-
->>>>>>> master
-||||||| merged common ancestors
-  height: 40px;
-=======
->>>>>>> Temporary merge branch 2
-=======
-.t-blue-aside {
-
->>>>>>> master
 }
 
 //FOOTER
-.t-blue-footer {
-
+.th-blue-footer {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	background-color: #36EEE0;
 }
