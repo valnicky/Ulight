@@ -3,13 +3,13 @@
 
 ## MAIN GOALS
 
-- [ ] Have a downloadable version for February 4th (4 weeks)
+- [x] Have a downloadable version for February 4th (4 weeks)
 
-- [ ] Have a Grid System (CSS Grid) implemented -> Create classes which allow the user to layout his/ her website by adding classes to his/ her containers
+- [x] Have a Grid System (CSS Grid) implemented -> Create classes which allow the user to layout his/ her website by adding classes to his/ her containers
 
-- [ ] Have few themes implemented -> between 3 and 5 should be great, blocks and inline stuff (tables, links, lists, buttons and so on)
+- [x] Have few themes implemented -> between 3 and 5 should be great, blocks and inline stuff (tables, links, lists, buttons and so on)
 
-- [ ] Have a working website to present the Framework
+- [x] Have a working website to present the Framework
 
 
 
@@ -55,9 +55,9 @@
 
 - [x] Finish to implement all the templates to the Framework
 
-- [ ] Match all together
+- [x] Match all together
 
-- [ ] Release the Framework and website (with Github pages)
+- [x] Release the Framework and website (with Github pages)
 
 
 ## REQUIREMENTS
