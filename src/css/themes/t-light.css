@@ -1,52 +1,81 @@
-* {
+.th-light-nav {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   margin: 0;
-  padding: 0; }
-
-.t-light-nav {
+  padding: 0;
   display: grid;
   grid-template-columns: 1fr 2fr 1fr;
   padding: 1rem;
-  list-style: none;
   background-color: #474747; }
 
-.t-light-nav ul {
+.th-light-ul {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  list-style: none;
   grid-column: 2 / 3;
   justify-self: center; }
 
-.t-light-nav li {
+.th-light-li {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
   display: inline-block;
   list-style: none; }
 
-.t-light-nav a {
+.th-light-a {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
   text-decoration: none;
   color: #f7f7f7;
-  margin: 0 10px;
-  font-size: 1.2rem; }
+  margin: 0 10px; }
 
-.t-light-nav a:hover {
+.th-light-a:hover {
   text-decoration: underline; }
 
-.t-light-header {
+.th-light-header {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
   background: -webkit-gradient(linear, left top, right top, from(#cd7502), color-stop(16%, #d17902), color-stop(33%, #d47e02), color-stop(50%, #d88202), color-stop(66%, #dc8702), color-stop(83%, #df8b02), to(#e39002));
   background: -webkit-linear-gradient(left, #cd7502 0%, #d17902 16%, #d47e02 33%, #d88202 50%, #dc8702 66%, #df8b02 83%, #e39002 100%);
   background: -o-linear-gradient(left, #cd7502 0%, #d17902 16%, #d47e02 33%, #d88202 50%, #dc8702 66%, #df8b02 83%, #e39002 100%);
   background: linear-gradient(90deg, #cd7502 0%, #d17902 16%, #d47e02 33%, #d88202 50%, #dc8702 66%, #df8b02 83%, #e39002 100%); }
 
-.t-light-section {
+.th-light-section {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
   background-color: #fff;
   -webkit-box-shadow: 0 3px 3px #d1d1d1;
   box-shadow: 0 3px 3px #d1d1d1; }
 
-.t-light-article {
+.th-light-article {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
   background-color: #fff;
   border: 1px solid #e39002; }
 
-.t-light-aside {
+.th-light-aside {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
   background-color: #f5f5f5;
   border: 1px solid #e39002; }
 
-.t-light-footer {
+.th-light-footer {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
   background-color: #f5f5f5;
-  border-top: 1px solid #dddddd; }
+  border-top: 1px solid #ddd; }

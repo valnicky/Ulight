@@ -1,44 +1,51 @@
-* {
+// NAV
+.th-blue-nav {
 	box-sizing: border-box;
 	margin: 0;
 	padding: 0;
-}
-
-// NAV
-.t-blue-nav {
 	background-color: #36EEE0;
 	width: 100%;
 }
 
 // HEADER
-.t-blue-header {
+.th-blue-header {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
 	width:100%;
   background-color: #8dfff3;
-  height: 50px;
 }
 
 // SECTION
-.t-blue-section {
+.th-blue-section {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
   background-color: #ecfcf9;
-  height: 40px;
   width: 100%;
 }
 
 // ARTICLE
-.t-blue-article {
+.th-blue-article {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
   background-color: #ecfcf9;
-  height: 40px;
 }
 
 // ASIDE
-.t-blue-aside {
+.th-blue-aside {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
   background-color: #defdf7;
-  height: 40px;
 }
 
 //FOOTER
-.t-blue-footer {
+.th-blue-footer {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
 	width: 100%;
 	background-color: #36EEE0;
-	height: 60px;
 }
