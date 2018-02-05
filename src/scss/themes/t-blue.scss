@@ -1,51 +1,69 @@
-// NAV
-.th-blue-nav {
+* {
 	box-sizing: border-box;
 	margin: 0;
 	padding: 0;
-	background-color: #36EEE0;
-	width: 100%;
+}
+
+// NAV
+.t-blue-nav {
+
 }
 
 // HEADER
-.th-blue-header {
-	box-sizing: border-box;
-	margin: 0;
-	padding: 0;
-	width:100%;
-  background-color: #8dfff3;
+.t-blue-header {
+
 }
 
 // SECTION
-.th-blue-section {
-	box-sizing: border-box;
-	margin: 0;
-	padding: 0;
-  background-color: #ecfcf9;
-  width: 100%;
+.t-blue-section {
+
 }
 
 // ARTICLE
-.th-blue-article {
-	box-sizing: border-box;
-	margin: 0;
-	padding: 0;
-  background-color: #ecfcf9;
+.t-blue-article {
+
 }
 
 // ASIDE
+<<<<<<< HEAD
 .th-blue-aside {
 	box-sizing: border-box;
 	margin: 0;
 	padding: 0;
   background-color: #defdf7;
-}
-
-//FOOTER
-.th-blue-footer {
+||||||| merged common ancestors
+<<<<<<< Temporary merge branch 1
+.t-blue-aside {
+<<<<<<< HEAD
+||||||| merged common ancestors
+.t-blue-aside {
+=======
+.th-blue-aside {
 	box-sizing: border-box;
 	margin: 0;
 	padding: 0;
-	width: 100%;
-	background-color: #36EEE0;
+>>>>>>> Temporary merge branch 2
+  background-color: #defdf7;
+<<<<<<< Temporary merge branch 1
+  height: 40px;
+||||||| merged common ancestors
+
+=======
+	 background-color: #defdf7;
+  height: 40px;
+
+>>>>>>> master
+||||||| merged common ancestors
+  height: 40px;
+=======
+>>>>>>> Temporary merge branch 2
+=======
+.t-blue-aside {
+
+>>>>>>> master
+}
+
+//FOOTER
+.t-blue-footer {
+
 }

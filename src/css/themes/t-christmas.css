@@ -1,29 +1,39 @@
-.th-christmas-nav {
+html {
+  background-color: #F7F5F7;
+  border: 7rem solid #70AB54; }
+
+.t-christmas-nav {
   background-color: #F7F5F7;
   width: 31rem;
-  margin: 0 auto; }
+  margin: 0 auto;
+  height: 5rem; }
 
-.th-christmas-header {
+.t-christmas-header {
   background-color: #F75738;
   width: 29rem;
-  margin: -2rem auto 1.5rem auto; }
+  margin: -2rem auto 1.5rem auto;
+  height: 8rem; }
 
-.th-christmas-section {
+.t-christmas-section {
   background-color: #70AB54;
   width: 29rem;
-  margin: 1.5rem auto; }
+  margin: 1.5rem auto;
+  height: 16rem; }
 
-.th-christmas-article {
+.t-christmas-article {
   background-color: #88D066;
   width: 29rem;
-  margin: 1.5rem auto; }
+  margin: 1.5rem auto;
+  height: 15rem; }
 
-.th-christmas-aside {
+.t-christmas-aside {
   background-color: #96E96F;
   width: 29rem;
-  margin: 1.5rem auto; }
+  margin: 1.5rem auto;
+  height: 10rem; }
 
-.th-christmas-footer {
+.t-christmas-footer {
   background-color: #F7F5F7;
   width: 31rem;
-  margin: -1.5rem auto 2rem auto; }
+  margin: -1.5rem auto 2rem auto;
+  height: 6.5rem; }
