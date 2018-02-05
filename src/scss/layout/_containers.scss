@@ -1,8 +1,0 @@
-.container {
-  @include stickEdges;
-  width: 100%;
-  clear: both;
-  &::after {
-    @include afterBlock;
-  }
-}
