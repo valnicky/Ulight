@@ -19,7 +19,7 @@
 
 - [x] Doing between 1 and 3 templates (web design) to implement on the Framework
 
-- [x] Implementing some easy layout with the Grid System (1 direction for now)
+- [ ] Implementing some easy layout with the Grid System (1 direction for now)
 
 - [x] Finish to do the current issues (implementing the 3 basics themes which already exists)
 
@@ -35,25 +35,29 @@
 
 - [x] Build between 2 or 3 more HTML pages to test the Framework
 
-- [x] Implementing some easy layout (2 dimensions this time) with the Grid System
+- [ ] Implementing some easy layout (2 dimensions this time) with the Grid System
 
-- [x] Do the web design of the website
+- [ ] Do the web design of the website
 
 
 
 ## WEEK 3
 
-- [x] Do the HTML and CSS of the Website
+- [ ] Do the HTML and CSS of the Website
 
 - [x] Start implementing the templates in SCSS in the Framework
 
-- [x] Implement more complex layout with CSS Grid
+- [ ] Implement more complex layout with CSS Grid
 
 
 
 ## WEEK 4
 
-- [x] Finish to implement all the templates to the Framework
+- [ ] Add JavaScript to the Website
+
+- [ ] Finish to implement all the templates to the Framework
+
+- [ ] Implement complex layouts with CSS Grid
 
 - [x] Match all together
 
@@ -66,3 +70,4 @@
 - **Use branch master** for simplicity, the old uligh-dev branch was removed
 - **BE SURE YOU COMMIT ONLY YOUR CHANGES**! Don not include commits from other prople in your pull requests!
 - Add your code on Codepen for checking before doing your pull request
+
